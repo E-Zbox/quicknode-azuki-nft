@@ -18,7 +18,7 @@ export const fetchTokens = async (
 
   try {
     const core = new Core({
-      endpointUrl: "https://docs-demo.quiknode.pro/",
+      endpointUrl: QUICKNODE_ENDPOINT,
       config: {
         addOns: {
           nftTokenV2: true,
