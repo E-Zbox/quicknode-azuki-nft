@@ -4,6 +4,12 @@
     <img src="./screenshots/one.png" />
 </div>
 
+### Table of Content
+
+- [About Azuki](#about-azuki)
+- [Getting Started](#getting-started)
+- [Learn More](#learn-more)
+
 ## About Azuki
 
 In 2022, [Azuki](https://www.azuki.com/) set out to create a decentralized anime brand, where the community can co-create and contribute to the IP and stories we tell, forging a new model of community-driven entertainment._(copied)_
